@@ -1,0 +1,214 @@
+[
+    {
+        "courseName": "Meri-Toppila",
+        "layout": "Summer 2021",
+        "coursePar": 55,
+        "holes": [
+            {
+                "holeNumber": 1,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 2,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 3,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 4,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 5,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 6,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 7,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 8,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 9,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 10,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 11,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 12,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 13,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 14,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 15,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 16,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 17,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 18,
+                "holePar": 3
+            }
+        ]
+    },
+    {
+        "courseName": "Meri-Toppila",
+        "layout": "Perämeri Open 2021",
+        "coursePar": 60,
+        "holes": [
+            {
+                "holeNumber": 1,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 2,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 3,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 4,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 5,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 6,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 7,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 8,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 9,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 10,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 11,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 12,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 13,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 14,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 15,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 16,
+                "holePar": 4
+            },
+            {
+                "holeNumber": 17,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 18,
+                "holePar": 3
+            }
+        ]
+    },
+    {
+        "courseName": "Hiihtomaja",
+        "layout": "All-Year",
+        "coursePar": 27,
+        "holes": [
+            {
+                "holeNumber": 1,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 2,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 3,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 4,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 5,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 6,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 7,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 8,
+                "holePar": 3
+            },
+            {
+                "holeNumber": 9,
+                "holePar": 3
+            }
+        ]
+    },
+    {
+        "courseName": "Yksväylänen",
+        "layout": "tynkä rata :D",
+        "coursePar": 3,
+        "holes": [
+            {
+                "holeNumber": 1,
+                "holePar": 3
+            }
+        ]
+    }
+]
